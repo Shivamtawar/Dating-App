@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/img3"
+        android:title="Favorite">
+
+    </item>
+
+    <item
+        android:id="@+id/rateus"
+        android:icon="@drawable/img3"
+        android:title="Rate Us">
+
+    </item>
+
+    <item
+        android:id="@+id/PrivacyPolicy"
+        android:icon="@drawable/img3"
+        android:title="Privacy Policy">
+
+    </item>
+
+    <item
+        android:id="@+id/termsncondtiondraw"
+        android:icon="@drawable/img3"
+        android:title="Terms and Conditions">
+
+    </item>
+
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/img3"
+        android:title="About Us">
+    </item>
+
+</menu>

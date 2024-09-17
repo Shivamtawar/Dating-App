@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:layout_gravity="start"
+    android:padding="10dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/senderimg"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/img3">
+
+        </de.hdodenhof.circleimageview.CircleImageView>
+        <TextView
+            android:id="@+id/messagetext"
+            android:layout_marginStart="10dp"
+            android:layout_width="174dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="Shivam Tawar Shivam TawarShivam Tawar"
+            android:textColor="@color/black"
+            android:textSize="17dp">
+
+
+        </TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
